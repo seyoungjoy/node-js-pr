@@ -1,0 +1,25 @@
+{
+  "name": "js-study",
+  "version": "1.0.0",
+  "description": "- node.js 는 자바스크립트다. -",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seyoungjoy/node-js-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seyoungjoy/node-js-study/issues"
+  },
+  "homepage": "https://github.com/seyoungjoy/node-js-study#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.7.3"
+  }
+}
